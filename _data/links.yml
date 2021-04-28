@@ -1,0 +1,25 @@
+- name: 码志
+  url: http://mazhuang.org
+  src: life
+
+- name: ZZY补完计划
+  url: https://zzycreate.github.io/
+  src: life
+
+- name: 王玉超
+  url: https://yuchao.wang/
+  src: life
+
+
+- name: 孙不服的博客
+  url: https://sunbufu.github.io/
+  src: www
+
+- name: 见字如面
+  url: https://hiwannz.com
+  src: www
+
+- name: 梦境迷离
+  url: https://dreamylost.cn
+  src: www
+
