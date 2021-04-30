@@ -1,3 +1,11 @@
+---
+layout: post
+title: logrotate介绍
+categories: logrotate
+description: 
+keywords: logrotate
+---
+
 #### 1）logrotate的简单介绍
 
 logrotate是一个linux系统日志的管理工具。可以对单个日志文件或者某个目录下的文件按时间/大小进行切割，压缩操作，指定日志保存数量；还可以在切割之后运行自定义命令。
@@ -159,7 +167,7 @@ postrotate/endscript ： 最通常的作用是让应用重启，以便切换到�
 
 **附：配置**
 
-[deployer@~]$ sudo cat /etc/logrotate.d/redis   
+[deployer@CS~]$ sudo cat /etc/logrotate.d/redis   
 /apps/logs/bc_redis/\*/\*/*.log {  
     rotate 5  
     copytruncate  
