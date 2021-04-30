@@ -2,7 +2,7 @@
 layout: post
 title: logrotate介绍
 categories: logrotate
-description: 
+description: logrotate介绍
 keywords: logrotate
 ---
 
