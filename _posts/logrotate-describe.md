@@ -1,9 +1,9 @@
 ---
 layout: post
 title: logrotate介绍
-categories: logrotate
+categories: GitHub
 description: logrotate介绍
-keywords: logrotate
+keywords: GitHub
 ---
 
 #### 1）logrotate的简单介绍
